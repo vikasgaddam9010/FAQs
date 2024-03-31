@@ -1,0 +1,28 @@
+.each-list-css {
+  border: 1px solid #d7dae6;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
+.list-head {
+  color: #52606d;
+  font-size: 20px;
+}
+.btn {
+  background-color: transparent;
+  border: 0px solid;
+}
+.list-question-part {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.hr {
+  border: 1px solid #e4e7eb;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.answer {
+  color: #9aa5b1;
+}

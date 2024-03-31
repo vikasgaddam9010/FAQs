@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+}
+.bg-container {
+  background-color: #e4e7eb;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.head {
+  color: #cb8805;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+.list-container {
+  background-color: #ffffff;
+  margin: 50px;
+  height: 90%;
+  padding: 80px;
+  border-radius: 20px;
+  list-style-type: none;
+}
+@media (max-width: 576px){
+  .bg-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+}
